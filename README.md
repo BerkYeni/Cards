@@ -1,2 +1,2 @@
 # Cards
-A python module for basic Playing Cards functionality.
+A Python module for basic Playing Cards functionality.
